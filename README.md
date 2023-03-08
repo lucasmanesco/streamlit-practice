@@ -1,2 +1,3 @@
-# streamlit-practice
-Practicing streamlit w/ python
+# Streamlit Practice App
+
+Practicing Streamlit w/ Python
